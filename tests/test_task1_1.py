@@ -1,5 +1,5 @@
 import pytest
-from src.task1 import check_age
+from src.task1_1 import check_age
 
 
 @pytest.mark.parametrize('age, expected',
